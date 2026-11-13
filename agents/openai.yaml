@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Astrology"
+  short_description: "Grounded daily Western astrology readings"
+  default_prompt: "Generate my daily astrology reading using verified transit data. If my private birth profile or calculation engine is unavailable, ask for what is missing and do not invent chart details."

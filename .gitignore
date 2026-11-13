@@ -1,0 +1,13 @@
+.deps/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Private birth data and generated readings
+profile.json
+*-profile.json
+private/
+reports/
